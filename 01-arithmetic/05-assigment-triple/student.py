@@ -1,1 +1,2 @@
-# write your code here
+def tripple(x):
+    return x*3
