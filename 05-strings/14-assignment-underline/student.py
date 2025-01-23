@@ -1,1 +1,3 @@
-# write your code here
+def underline(string):
+    result = string + "\n" + "-"*len(string)
+    return result
